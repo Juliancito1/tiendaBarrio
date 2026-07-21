@@ -1,0 +1,11 @@
+.carouselContenedor{
+  max-height: 500px !important;
+}
+
+
+@media (width >= 992px){
+  .carouselContenedor{
+    max-height: 700px !important;
+  }
+}
+
